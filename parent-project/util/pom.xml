@@ -10,6 +10,7 @@
   <groupId>com.moon.multimodule</groupId>
   <artifactId>util</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
   <name>util</name>
   <url>http://maven.apache.org</url>
   <dependencies>
