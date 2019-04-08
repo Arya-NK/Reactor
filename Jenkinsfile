@@ -1,4 +1,4 @@
 // Jenkinsfile
 //@Library('PipelineLibrary') _
 
-pipelineTemplate('someParam':currentBuild.getNumber())
+pipelineTemplate('VERSION':1.0.1)
