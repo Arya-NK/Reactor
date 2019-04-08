@@ -28,4 +28,12 @@
     <module>model</module>
     <module>util</module>
   </modules>
+
+  <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>SG-LT-OS-12441-snapshots</name>
+        <url>http://localhost:8081/artifactory/libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
