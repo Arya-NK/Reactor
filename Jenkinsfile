@@ -1,4 +1,4 @@
 // Jenkinsfile
-//@Library('PipelineLibrary') _
 
+@Library('PipelineLibrary') _
 pipelineTemplate('VERSION':'1.0.1')
